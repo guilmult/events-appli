@@ -133,7 +133,11 @@ THE SOFTWARE.
 
 @angular/material/icon
 
+@angular/material/menu
+
 @angular/material/sort
+
+@angular/material/stepper
 
 @angular/material/table
 
